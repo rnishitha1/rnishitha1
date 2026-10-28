@@ -3,26 +3,67 @@
 
 # Nishitha Ravella
 
-### Software Engineer · Quantum Computing & Communication
+### Software Engineer | Quantum Computing & Communication
 
-Exploring quantum communication, quantum networks, cryptography, and hybrid quantum-classical systems.
+Exploring quantum communication, quantum networking, cryptography, and hybrid quantum-classical systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rnishitha1-181717?style=for-the-badge&logo=github)](https://github.com/rnishitha1)
+<a href="https://github.com/rnishitha1">
+  <img src="https://img.shields.io/badge/GitHub-rnishitha1-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+</a>
 
 </div>
 
 ---
-## Fun Fact 🎈:
 
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+## 👩‍💻 About Me
 
-• 📫 Reach me out <a href="https://mail.google.com/mail/u/4/#inbox"><b>@nishitharavella0506@gmail.com</b></a><br/>
-</span>
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
 
-<br />
-<br />
+<img src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" width="160" alt="GitHub Octocat" />
+
+</td>
+<td width="70%" valign="middle">
+
+I'm a software engineer interested in the intersection of **quantum technologies and software systems**.
+
+My interests include:
+
+- ⚛️ Quantum Computing & Communication
+- 🌐 Quantum Networks & Cryptography
+- 🤖 Quantum Robotics & Reinforcement Learning
+- 💻 Full-Stack Development & Cloud Engineering
+
+I enjoy exploring new ideas, learning from research, and collaborating on meaningful technical projects.
+
+</td>
+</tr>
+</table>
+
 ---
+
+## 📬 Contact Me
+
+I'm open to connecting with researchers, developers, and collaborators working in quantum technologies and software engineering.
+
+<p align="left">
+  <a href="mailto:nishitharavella0506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rnishitha1">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+*Curious about quantum possibilities. Building with software.*
+
+</div>
 
 ## 🔬 Research Interests
 
