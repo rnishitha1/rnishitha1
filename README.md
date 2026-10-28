@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Nishitha Ravella
@@ -10,6 +11,7 @@ Exploring quantum communication, networking, cryptography, and hybrid quantum-cl
 
 </div>
 ---
+
 ## 👩🏻‍💻 About Me
 
 <table>
@@ -25,6 +27,7 @@ Software engineer exploring **quantum technologies, intelligent systems, and sof
 - 🤖 **Quantum Robotics** — Reinforcement learning and robotic decision-making.
 - 💻 **Software Engineering** — Full-stack development, APIs, and cloud systems.
 - 🌐 **IoT & Machine Learning** — Predictive modeling & data-driven applications.
+  
 
 </td>
 </tr>
