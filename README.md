@@ -10,7 +10,6 @@ Exploring quantum communication, networking, cryptography, and hybrid quantum-cl
 [![GitHub](https://img.shields.io/badge/GitHub-rnishitha1-24292e?style=flat-square&logo=github)](https://github.com/rnishitha1)
 
 </div>
----
 
 ## 👩🏻‍💻 About Me
 
