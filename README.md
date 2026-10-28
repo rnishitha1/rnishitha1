@@ -22,11 +22,12 @@ Exploring quantum communication, networking, cryptography, and hybrid quantum-cl
 <td width="75%" valign="middle">
 
 Software engineer exploring **quantum technologies, intelligent systems, and software engineering**.
-
-- ⚛️ **Quantum Computing & Communication** — Research and experiments
-- 🤖 **Quantum Robotics** — Reinforcement learning and robotic decision-making
-- 💻 **Software Engineering** — Full-stack development, APIs, and cloud systems
-- 🌐 **IoT & Machine Learning** — Predictive modeling & data-driven applications
+## 🚀 Selected Work
+- ⚛️ **Quantum Computing & Communication** — Research and experiments.
+- 🤖 **Quantum Robotics** — Reinforcement learning and robotic decision-making.
+- 💻 **Software Engineering** — Full-stack development, APIs, and cloud systems.
+- 🌐 **IoT & Machine Learning** — Predictive modeling & data-driven applications.
+- 
 
 </td>
 </tr>
@@ -54,13 +55,6 @@ Software engineer exploring **quantum technologies, intelligent systems, and sof
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 🚀 Selected Work
-
-- **Quantum Computing & Communication** — Research topics, concepts, and experiments.
-- **Quantum Robotics** — Quantum reinforcement learning and robotic decision-making.
-- **Software Engineering** — Full-stack applications, APIs, and cloud systems.
-- **IoT & Machine Learning** — Data-driven applications and predictive modeling.
 
 ## 📚 Papers & Learning
 
